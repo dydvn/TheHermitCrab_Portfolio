@@ -18,9 +18,7 @@ public class BackgrounRepeat : MonoBehaviour
 
     private void Start()
     {
-        //if (gameManager_Play.nTheme_Num != 5)
-            wall_Size = GetComponent<SpriteRenderer>().sprite.bounds.size.x;
-        //gameManager_Play = GameObject.Find("GameManager").GetComponent<GameManager_Play>();
+        wall_Size = GetComponent<SpriteRenderer>().sprite.bounds.size.x;
     }
 
     private void Update()
