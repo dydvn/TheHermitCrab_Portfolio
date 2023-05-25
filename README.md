@@ -62,8 +62,7 @@ Platform : Mobile (Google play)
 
 🛠 플레이어 컨트롤
 
-![9](https://user-images.githubusercontent.com/62327209/232225296-82bcd719-7183-432c-9c14-c47271917c21.png)
-![10](https://user-images.githubusercontent.com/62327209/232225299-c977733c-04df-4582-9061-faa9e2ea0676.png)
+https://github.com/dydvn/TheHermitCrab_Portfolio/assets/62327209/321df1cf-323e-4198-83d8-e7cbd9473567
 
 
 - 공격과 숨기 기능을 구현했습니다.
