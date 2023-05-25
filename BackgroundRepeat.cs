@@ -24,7 +24,8 @@ public class BackgrounRepeat : MonoBehaviour
     private void Update()
     {
         transform.Translate((gameManager_Play.move_Speed_Ground + new Vector3(speed * Time.deltaTime, 0, 0)) * player.nRun_Stop * gameManager_Play.nPause);
-
+        
+        // 화면 왼쪽으로 완전히 넘어가면 화면 오른쪽으로 이동
         if (transform.position.x < -(wall_Size * 4.0f))
             transform.position = new Vector3(testobject.transform.position.x + wall_Size * 3.95f, height, -0.1f);
     }
