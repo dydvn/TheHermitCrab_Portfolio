@@ -54,6 +54,7 @@ Platform : Mobile (Google play)
 
 
 - 4개의 배경 레이어가 각자의 속도로 오른쪽에서 왼쪽으로 계속 스크롤 됩니다.
+- 각 배경은 2개로 나눠져있고 화면 왼쪽의 특정 부분까지 도달하면 화면 오른쪽으로 이동시켜 무한루프되는 것처럼 보이도록 하였습니다.
 - Code - [https://github.com/dydvn/TheHermitCrab/blob/main/BackgroundRepeat.cs](https://github.com/dydvn/TheHermitCrab/blob/main/BackgroundRepeat.cs)
 
 
